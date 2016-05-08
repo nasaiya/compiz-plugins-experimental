@@ -83,6 +83,7 @@ xml_in_files =               \
 	throw.xml.in          \
 	tile.xml.in           \
 	toggledeco.xml.in     \
+	ddanything.xml.in     \
 	$(animationplusxml)   \
 	$(animationsimxml)    \
 	$(atlantisxml)        \
