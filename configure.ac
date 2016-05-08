@@ -187,5 +187,6 @@ src/tile/Makefile
 src/toggle-decoration/Makefile
 src/wizard/Makefile
 src/workspacenames/Makefile
+src/dropdown-anything/Makefile
 po/Makefile.in
 ])
