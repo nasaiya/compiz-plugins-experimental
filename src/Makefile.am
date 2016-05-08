@@ -27,4 +27,5 @@ SUBDIRS =                \
 	tile              \
 	toggle-decoration \
 	wizard            \
-	workspacenames
+	workspacenames    \
+	dropdown-anything
